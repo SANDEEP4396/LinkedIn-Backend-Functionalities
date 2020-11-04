@@ -2,11 +2,10 @@
 
 ### There are two types of accounts, recruiter and regular. 
 
-In order to use the system, each user needs to register an account and login the account. The account ID is unique (between 3 and 10 characters), and must contain at least one letter, one digit and one special character from {#, ? !, *}. Also, the password cannot be the same as the login ID. Use other requirements to decide what kind of attributes you will need for a profile of an account. 
-
 After a log-in, the system will display two parts, one is the recommendations of connections to some people in the same organization or company and some 2nd connections. The second part is to display the most recent 5 job ads shared by the account holder’s connected people. 
 
-### Below the two parts, define a menu to allow the user to use the following features. 
+### Below the two parts, define a menu to allow the user to use the following features 
+
 •	See connected people and select a people to see her/his profile and connected people. 
 
 •	Send a request to create a connection with someone. After the request is approved by the other side, the connection is built.
